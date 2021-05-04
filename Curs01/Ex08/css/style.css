@@ -1,0 +1,25 @@
+.square,
+.square-purple,
+.square-peru,
+.square-magenta {
+  width: 200px;
+  height: 200px;
+  background-color: #40e0d0;
+  border: 1px solid #000;
+}
+.squares {
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid #000;
+  padding: 10px;
+  display: flex;
+}
+.square-magenta {
+  background-color: #f0f;
+}
+.square-peru {
+  background-color: peru;
+}
+.square-purple {
+  background-color: purple;
+} /*# sourceMappingURL=style.css.map */
